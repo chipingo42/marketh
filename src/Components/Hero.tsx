@@ -39,7 +39,7 @@ const Hero = () => {
             </div>
           </div>
           <div>
-            <h1 className=' pt-166 font-Inter text-40 font-600 text-[#F7F8F9]'>We believe in the power of data</h1>
+            <h1 className='pt-166 font-Inter text-40 font-600 text-[#F7F8F9]'>We believe in the power of data</h1>
             <div className='mt-102 flex items-center space-x-32'>
               <div className='flex flex-col'>
                 <span className=' text-[#6941C6] font-Inter text-36 font-600'>15,000+</span>
