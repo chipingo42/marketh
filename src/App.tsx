@@ -1,4 +1,5 @@
 import React from 'react';
+import Clients from './Components/Clients';
 import Compaines from './Components/Compaines';
 import CuttingEdge from './Components/CuttingEdge';
 import Hero from './Components/Hero';
@@ -15,6 +16,7 @@ function App() {
       <Compaines />
       <Hire />
       <CuttingEdge />
+      <Clients />
     </div>
   );
 }
