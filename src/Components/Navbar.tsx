@@ -77,7 +77,9 @@ const Navbar = () => {
             <p className='font-700 font-Inter text-32 '>Marketh.</p>
           </div>
           <ul className='flex pt-63 space-x-8'>
-            <li className=' text-24 font-400 font-Inter '>Product</li>
+            <li className=' text-24 font-400 font-Inter '>
+             Product
+            </li>
             <li className=' text-24 font-400 font-Inter '>Pricing</li>
             <li className=' text-24 font-400 font-Inter '>Resources</li>
             <li className=' text-24 font-400 font-Inter '>Features</li>
@@ -93,4 +95,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar;

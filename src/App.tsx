@@ -1,7 +1,5 @@
 import React from 'react';
-import Clients from './Components/Clients';
-import Compaines from './Components/Compaines';
-import CuttingEdge from './Components/CuttingEdge';
+import Features from './Components/Features';
 import Faq from './Components/Faq';
 import Footer from './Components/Footer';
 import Hero from './Components/Hero';
@@ -17,10 +15,8 @@ function App() {
     <div className="">
       <Navbar />
       <Hero />
-      <Compaines />
       <Hire />
-      <CuttingEdge />
-      <Clients />
+      <Features />
       <Launch />
       <Princing />
       <Faq />
@@ -30,3 +26,4 @@ function App() {
 }
 
 export default App;
+// wwww
